@@ -3,6 +3,7 @@
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Agu+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
 
 /* Styles for the body */
 
@@ -16,16 +17,20 @@ body {
 
 .resume-header {
     font-family: "Agu Display", serif;
-	background-color: #C66200;
-	color: aliceblue
+	background-color: #A64E00;
+	color: antiquewhite;
+	
 }
 
 .resume-main {
-	background-color: #88E9FF;
+	background-color: #F3E1D5;
+	font-family: "EB Garamond", serif;
 }
 
 .resume-aside {
-	background-color: #D1FF84;
+	background-color: #006A21;
+	color: antiquewhite;
+	font-family: "EB Garamond", serif;
 }
 
 /* Styles for lists in the document */
@@ -51,4 +56,8 @@ body {
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
+}
+.title-description-alternative {
+	color:darkgoldenrod;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
 }
