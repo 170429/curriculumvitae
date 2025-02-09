@@ -4,7 +4,7 @@ I used the BUAS template to create a CV while learning HTML and CSS
 
 ## See it live!
 
-Click on <https://https://170429.github.io/curriculumvitae/> to see what my résumé looks like when published!
+Click on <https://170429.github.io/curriculumvitae/> to see what my résumé looks like when published!
 
 ## Course requirements
 
