@@ -22,7 +22,6 @@ body {
 }
 h1:hover {
 	color:chocolate;
-	font-size: 325%;
 	transition: 0.3s;
 	}
 
