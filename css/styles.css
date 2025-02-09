@@ -20,10 +20,6 @@ body {
 	background-color: #A64E00;
 	color: antiquewhite;
 }
-h1:hover {
-	color:chocolate;
-	transition: 0.3s;
-	}
 
 .resume-main {
 	background-color: #F3E1D5;
@@ -60,7 +56,14 @@ h1:hover {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+
+/* Custom styles */
+
 .title-description-alternative {
 	color:darkgoldenrod;
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
 }
+h1:hover {
+	color:chocolate;
+	transition: 0.3s;
+	}
