@@ -6,6 +6,8 @@ I used the BUAS template to create a CV while learning HTML and CSS
 
 Click on <https://170429.github.io/curriculumvitae/> to see what my résumé looks like when published!
 
+(make sure to check out my name on the page for a surprise!:))
+
 ## Course requirements
 
 Please check the latest requirements for the résumé [in the PRJ4 Guide](https://buas-media-interactive.github.io/prj4-guide/checklist-individual.html)
